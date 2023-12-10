@@ -1,2 +1,5 @@
+.vscode
+!.additional/**/*
+
 /target
 /dist
